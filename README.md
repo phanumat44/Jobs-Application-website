@@ -1,18 +1,18 @@
-# The employee mental health assessment
+# Jobs Application website
 ## Description
-The employee mental health assessment using vuejs ,vuetify,nodejs,expressjs
+Jobs Application website using vuejs ,vuetify,node.js,express.js
 
 ## Screenshots
 
-### Screenshot 1:  Home page
+### Screenshot 1:  Form page
 <img src="/screenshot/1.png" alt="Screenshot 1" width="700">
 
-### Screenshot 2: Assessment page
+### Screenshot 2: List of applicants page
 <img src="/screenshot/2.png" alt="Screenshot 2" width="700">
 
-### Screenshot 3: Result page
+### Screenshot 3: Detail page
 <img src="/screenshot/3.png" alt="Screenshot 3" width="700">
 
-### Screenshot 4: Result detail page
+### Screenshot 4: Print pdf page
 <img src="/screenshot/4.png" alt="Screenshot 4" width="700">
 
